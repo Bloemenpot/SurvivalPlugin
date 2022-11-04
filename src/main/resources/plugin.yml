@@ -1,0 +1,10 @@
+name: SurvivalPlugin
+version: '${project.version}'
+main: survivalplugin.com.goudenhelden.plugin.Com.GoudenHelden.Main
+api-version: 1.19
+authors: [ Bloemenpot ]
+description: desc
+commands:
+  coords:
+    description: Sends your current coordinates to the chat.
+    aliases: [coords, c]
